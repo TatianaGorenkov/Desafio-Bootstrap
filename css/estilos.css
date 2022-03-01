@@ -1,0 +1,31 @@
+
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li :hover {
+    color: rgb(194, 204, 207);
+    font-weight:bolder;
+}
+
+nav ul li a {
+    color: black;
+}
+
+.LogosSocialMedia {
+    width: 40px;
+}
+
+.ContenedorTexto {
+    background-color: rgb(194, 204, 207);
+}
+
+.FormnularioContacto {
+    padding-top: 20px;
+}
+
+
+.SocialMedia a :hover {
+    background-color: rgb(194, 204, 207);
+}
