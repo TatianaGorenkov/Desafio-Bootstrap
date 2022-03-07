@@ -19,6 +19,7 @@ nav ul li a {
 
 .ContenedorTexto {
     background-color: rgb(194, 204, 207);
+
 }
 
 .FormnularioContacto {
@@ -29,3 +30,4 @@ nav ul li a {
 .SocialMedia a :hover {
     background-color: rgb(194, 204, 207);
 }
+
